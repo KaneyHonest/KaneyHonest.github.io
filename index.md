@@ -4,4 +4,5 @@
 
 # Contact
 - [Twitter](https://twitter.com/KaneyHonest)
+- [はてなブログ](https://kaneyhonest.hatenablog.com/?_ga=2.177168742.2100718807.1615617495-80865186.1614839443)
 - [Mail](mailto:yamadataro0407@gmail.com)
