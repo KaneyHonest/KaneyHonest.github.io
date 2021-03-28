@@ -6,5 +6,9 @@
 
 # Contact
 - [twitter](https://twitter.com/KaneyHonest)
-- [はてなブログ](https://kaneyhonest.hatenablog.com/?_ga=2.177168742.2100718807.1615617495-80865186.1614839443)
 - [gmail](mailto:yamadataro0407@gmail.com)
+
+# Blog
+- [やったこと](https://kaneyhonest.hatenablog.com/?_ga=2.177168742.2100718807.1615617495-80865186.1614839443)
+- [考えたこと＆読書メモ](https://scrapbox.io/yamadataro0407-90698593/)
+
